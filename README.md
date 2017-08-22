@@ -28,3 +28,4 @@ Evolutionary optimization of QWERTY-derived keymaps for trace-based touchscreen 
  * Display current best keymap graphically using a simple
 	graphics library.
 
+This project currently makes use of word-count data from http://www.norvig.com/ngrams/
